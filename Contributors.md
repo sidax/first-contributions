@@ -426,7 +426,7 @@ Migeen Magar - let'sss gooooooo
 - [Krishna Malhotra](https://github.com/krishna2707) - Hi This is my first contribution
 - [Orkun Olcal](https://orkunolcal.github.io/) - Hello World!
  add-lury
--[Adesh Singh](https://github.com/adesh-singh596) - Hello World!! this is Adesh and it's my first open-source contribution!
+ -[Adesh Singh](https://github.com/adesh-singh596) - Hello World!! this is Adesh and it's my first open-source contribution!
 - [Alden Rosario](https://github.com/ROSRAR20) - Hello!! this is also my first open-source contribution!
 - [LuryChou](https://github.com/lurychou) - Hello,friends! My first open-source contribution!
 -[Rushikesh Fulmali](https://github.com/rushikeshfulmali27) - hi friends , this is my first contibution !
@@ -7528,6 +7528,7 @@ add-pranav
 - [Ayush Nandi](https://github.com/ayushnandi718-dev) - my first open source contribution!
 - [Ismail Mansuri](https://github.com/beyondruntime) "This is my very first open-source contribution on GitHub! As a beginner, I'm excited to learn, improve my skills, and connect with others in the community. Every great developer starts by taking that first step, and I'm looking forward to growing one commit at a time."
 - [kristofferson capili]
+- [sidax](https://github.com/sidax) - This is my first contribution!
 - [Iva Plavec](https://github.com/ivck30)
 - [flkrdze] (https://github.com/flkrdze)
 - [Syed Mujtaba Abbas](https://github.com/mujtbabbas)
